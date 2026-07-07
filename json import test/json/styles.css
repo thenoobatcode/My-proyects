@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(44, 44, 44);
+    margin: 0;
+    padding: 0;
+}
+
+code {
+    color: rgb(163, 163, 163);
+    font-family: consolas, Cascadia Code, Jetbrains Mono, Fira Code, system-ui monospace;
+    font-size: 1rem;
+}
+
+

@@ -1,0 +1,12 @@
+{
+    "name": "Json Import Test",
+    "version": "1.0.0",
+    "Presets": [
+        "none"
+    ],
+    "autor": "Liam",
+    "description": "Test for importing JSON files from fetch utility",
+    "config": {
+        "message": "No config implemented, can be implemented in v1.0.2"
+    }
+}

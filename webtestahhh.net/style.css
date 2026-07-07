@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: black;
+}
+
+body.modooscuro {
+    background-color: black;
+    color: #fff;
+}
+
+.imagencubo {
+	width: 200px;
+	height; 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
