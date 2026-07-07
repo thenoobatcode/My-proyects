@@ -1,4 +1,4 @@
-[**[english]**](README.md)  **[español]**
+**[español]**  [**[english]**](README.md)
 
 ## ##
 
