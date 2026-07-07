@@ -1,13 +1,12 @@
-# License
-**my proyects is under license of:**
+[**[español]**](README-ES.md)   **[English]**
+## ##
 
+This repository is licensed under:
 
-## **Copyright (c) 2026 thenoobatcode.**
+# **Copyright (c) 2026 thenoobatcode.**
 
 **All rights reserved.**
 
-**No part of this software may be copied, modified, or redistributed without the express written permission of the author.**
+**Copying, modification, distribution, or unauthorized use of this software or any part thereof is strictly prohibited without the prior written permission of the copyright holder.**
 
-## ##
-
-this repo contains all my proyects that im working on.
+This repository will be a place where I publish all my projects.
